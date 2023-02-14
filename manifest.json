@@ -1,0 +1,31 @@
+{
+  "name": "Hide-Yahoo",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "google検索結果にあるYahoo!系サービスをグレイアウトする拡張機能",
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.google.com/search?*",
+        "*://www.google.co.jp/search?*",
+        "*://www.google.de/search?*",
+        "*://www.google.com.au/search?*",
+        "*://www.google.be/search?*",
+        "*://www.google.com.br/search?*",
+        "*://www.google.ca/search?*",
+        "*://www.google.ch/search?*",
+        "*://www.google.cn/search?*",
+        "*://www.google.dk/search?*",
+        "*://www.google.fi/search?*",
+        "*://www.google.com.hk/search?*",
+        "*://www.google.co.in/search?*",
+        "*://www.google.it/search?*",
+        "*://www.google.co.kr/search?*",
+        "*://www.google.co.uk/search?*",
+        "*://www.google.fr/search?*"
+      ],
+      "css": ["style.css"]
+    }
+  ]
+}
