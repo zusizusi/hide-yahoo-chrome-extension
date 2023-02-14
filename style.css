@@ -1,8 +1,8 @@
 /* yahoo.co.jpだったときは色をgrayにする */
-div.v7W49e > div > div > div:has(a[href*="yahoo.co.jp"]) * {
+div.v7W49e > div > div > div:has(a[ping*="yahoo.co.jp"]) * {
   color: rgba(128, 128, 128, 0.548) !important;
   text-decoration: none;
 }
-div.v7W49e > div > div > div:has(a[href*="yahoo.co.jp"]) * img {
+div.v7W49e > div > div > div:has(a[ping*="yahoo.co.jp"]) * img {
   filter: grayscale(100%);
 }
