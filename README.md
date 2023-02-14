@@ -5,7 +5,7 @@ Google 検索結果の内、Yahoo.co.jp の Web ページだけ灰色に色を�
 欧州から Google 検索をしたときに誤って Yahoo!のページを開くことを防ぐことができる。
 
 # DEMO
-![Screenshot from 2023-02-14 11-12-27](https://user-images.githubusercontent.com/41606073/218692837-ff2e5397-21c0-4e4c-b035-db0da1fca4af.png)
+![yahoo_example](https://user-images.githubusercontent.com/41606073/218763808-9b94f361-f358-4536-b234-876b2ecdf625.png)
 
 
 # Features
