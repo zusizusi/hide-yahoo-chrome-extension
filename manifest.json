@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "manifest_version": 3,
   "description": "Extension to grey out Yahoo! JP services in google search results",
-
   "content_scripts": [
     {
       "matches": [

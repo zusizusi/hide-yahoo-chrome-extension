@@ -1,12 +1,12 @@
-# Hide Yahoo Chrome Extension
+# Hide Yahoo Chrome Extension for Japanese
 
-Google 検索結果の内、Yahoo.co.jp の Web ページだけ灰色に色を変える Chrome 拡張機能
+google 検索結果にある Yahoo.co.jp のみグレーアウトし、目立たなくする Chrome 拡張機能です。
 
-欧州から Google 検索をしたときに誤って Yahoo!のページを開くことを防ぐことができる。
+欧州から Google 検索をしたときに誤って Yahoo!のページを開くことを防ぐことができます。
 
 # DEMO
-![yahoo_example](https://user-images.githubusercontent.com/41606073/218763808-9b94f361-f358-4536-b234-876b2ecdf625.png)
 
+![yahoo_example](https://user-images.githubusercontent.com/41606073/218763808-9b94f361-f358-4536-b234-876b2ecdf625.png)
 
 # Features
 
@@ -15,7 +15,7 @@ Google 検索結果の内、Yahoo.co.jp の Web ページだけ灰色に色を�
 
 # Installation
 
-Chrome ウェブストアからダウンロードするか、ダウンロードして自分で Chrome へ追加する。
+![Chrome ウェブストアからダウンロード](https://chrome.google.com/webstore/detail/hide-yahoojp/caloeaaagnbmmcedgkapicoejbkpemme/)するか、ソースコードをダウンロードして自分で Chrome へ追加してください。
 
 # Note
 
