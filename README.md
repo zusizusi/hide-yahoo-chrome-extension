@@ -15,7 +15,7 @@ google 検索結果にある Yahoo.co.jp のみグレーアウトし、目立た
 
 # Installation
 
-![Chrome ウェブストアからダウンロード](https://chrome.google.com/webstore/detail/hide-yahoojp/caloeaaagnbmmcedgkapicoejbkpemme/)するか、ソースコードをダウンロードして自分で Chrome へ追加してください。
+[Chrome ウェブストアからダウンロード](https://chrome.google.com/webstore/detail/hide-yahoojp/caloeaaagnbmmcedgkapicoejbkpemme/)するか、ソースコードをダウンロードして自分で Chrome へ追加してください。
 
 # Note
 
