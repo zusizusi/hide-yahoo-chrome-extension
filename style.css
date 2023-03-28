@@ -6,3 +6,12 @@ div.v7W49e > div > div > div:has(a[ping*="yahoo.co.jp"]) * {
 div.v7W49e > div > div > div:has(a[ping*="yahoo.co.jp"]) * img {
   filter: grayscale(100%);
 }
+
+/* geocities.jpだったときは色をgrayにする */
+div.v7W49e > div > div > div:has(a[ping*="geocities.jp"]) * {
+  color: rgba(80, 80, 80, 0.5) !important;
+  text-decoration: none;
+}
+div.v7W49e > div > div > div:has(a[ping*="geocities.jp"]) * img {
+  filter: grayscale(100%);
+}
